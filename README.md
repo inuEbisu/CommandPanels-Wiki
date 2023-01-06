@@ -1,7 +1,3 @@
----
-description: README
----
-
 # CommandPanels Wiki
 
 原文链接：[https://rockyhawk99.gitbook.io/rockyhawk-wiki/commandpanels/wiki](https://rockyhawk99.gitbook.io/rockyhawk-wiki/commandpanels/wiki)
